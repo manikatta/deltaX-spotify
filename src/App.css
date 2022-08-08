@@ -1,0 +1,83 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+nav{
+  background-color: green;
+  height: 50px;
+  width: 100vw;
+  position: absolute;
+}
+
+#home{
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  height: 40px;
+  width: 80px;
+  background-color: white;
+  position: absolute;
+  margin-top: 10px;
+  padding: 5px 10px;
+
+ 
+}
+
+#inp{
+  margin-left: 800px;
+  margin-top: 6px;
+}
+
+/* songs */
+
+
+.songs
+{
+  position:absolute;
+  margin-top: 50px;
+}
+
+#h1{
+  font-size: 30px;
+}
+
+
+
+
+
+#btn1
+{
+  padding: 2px 5px;
+  background-color: grey;
+  height: 30px;
+  width: 100px;
+  margin-left: 900px;
+  margin-top: 10px;
+  position: absolute;
+}
+
+.content
+{
+  margin: 100px 350px;
+  width: 900px;
+  margin-left: 100px;
+}
+
+.rat
+{
+  justify-content: space-evenly;
+  display: flex;
+}
+.details
+{
+  margin-top: 10px;
+  padding: 10px;
+}
+td{
+  margin-top: 10px;
+}
+
+

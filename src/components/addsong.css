@@ -1,0 +1,29 @@
+.popup
+{
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    border: 2px solid black;
+    margin-left: 250px;
+    margin-top: -450px;
+    position: fixed;
+
+}
+
+#form
+{
+    display: block;
+}
+
+.head
+{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+
+.but
+{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,25 @@
+.addartists
+{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    background-color: white;
+    margin-top: -350px;
+    margin-left: 500px;
+    position: absolute;
+}
+
+.artist-header
+{
+    margin: 10px 50px 0px 10px;
+}
+#h4
+{
+    text-align: center;
+}
+
+#bio
+{
+    height: 150px;
+    width: 350px;
+}
